@@ -1,0 +1,6 @@
+#!/bin/sh
+# uninstall delete command from ~/.bashrc
+
+SPATH=`cd "$(dirname "$0")" && pwd`
+echo source ${SPATH}/bashrc >> ~/.bashrc
+
