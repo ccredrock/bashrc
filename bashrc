@@ -12,10 +12,7 @@ alias ...='cd ...'
 alias .vimrc="vim ~/.vimrc"
 alias .bashrc="vim ~/.bashrc"
 alias .source="source ~/.bashrc"
-alias .test="echo ff"
-alias .test1="echo ff"
 
-echo test
 # ====================================================================
 # @doc nginx
 # ====================================================================
